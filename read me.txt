@@ -1,0 +1,12 @@
+ACTION LIST
+
+Information flow diagram
+-- notes on parts that need clarification
+---- how will water and nutrition be measured
+User flow diagram
+Lo-Fi Wireframes
+-- visual User flow
+Hi-Fi wireframes
+-- Layout design
+Portotype
+-- colors / font / images / final icons
