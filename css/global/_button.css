@@ -1,0 +1,19 @@
+.btn-container {
+    bottom: 0;
+    padding: 30px 0;
+}
+.btn {
+    color: white;
+    border-radius: 50px;
+    outline: none;
+    border: none;
+}
+.btn--is-active {
+    background: #FEA02C;
+}
+.btn--is-inactive {
+    background: rgb(214, 214, 214);
+}
+.fixed-bottom {
+    position: fixed;
+}

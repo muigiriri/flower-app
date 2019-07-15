@@ -1,0 +1,27 @@
+.title {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    font-size: 16px
+}
+.page-title {
+    font-family: 'raleway', serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+.page-sub-title, .card-sub-title {
+    font-family: 'raleway', serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+.sub-title {
+    font-family: 'Raleway', serif;
+    font-weight: 400;
+    font-size: 12px
+}
+.input__title {
+    font-family: 'raleway', serif;
+    font-size: 14px;
+}
+.w-600 {
+    font-weight: 600;
+}

@@ -1,0 +1,22 @@
+
+form {
+    outline: none;
+}
+input {
+    height: 50px;
+    outline: none;
+    border: none;
+    background: white;
+}
+
+.input-icon--water {
+    background: #84DBFF;
+}
+.input-icon--nutrition {
+    background: #FFC89F;
+}
+.input__text {
+    width: 85%;
+    border-radius: 0px 5px 5px 0px;
+    height: 50px;
+}
